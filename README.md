@@ -1,2 +1,2 @@
 # amberandgeoff.com
-Our Wedding Site
+Amber Conway and Geoff Davis's wedding website.
